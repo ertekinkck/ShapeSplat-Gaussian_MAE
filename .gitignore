@@ -1,0 +1,49 @@
+# ShapeSplat Point-MAE Gitignore
+
+# --- Data and Large Files (CRITICAL) ---
+gs_data/
+datasets/data/
+*.zip
+*.ply
+*.pth
+*.png
+*.jpg
+*.jpeg
+
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+env.yaml
+env_fixed.yaml
+venv/
+.env
+
+# --- Experiments and Logs ---
+experiments/
+logs/
+training.log
+error_log.txt
+*.log
+tqdm.log
+archive/
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Artifacts / Drafts ---
+*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+archive/docs/
+# --- Build Artifacts ---
+build/
+*.so
+*.o
+*.a
+dist/
+*.egg-info/
