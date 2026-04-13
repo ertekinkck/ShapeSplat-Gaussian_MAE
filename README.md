@@ -30,10 +30,10 @@ Model dosyaları 500 MB sınırına yakın (veya LFS gerektiren boyutlarda) oldu
 
 | Model Adı | Boyut | Drive Linki |
 |-----------|-------|-------------|
-| ShapeSplat General Base | 334 MB | [İndir (LINK_GELECEK)](#) |
-| ShapeSplat LLFF Final | 334 MB | [İndir (LINK_GELECEK)](#) |
-| ShapeSplat Partial Specialist | 334 MB | [İndir (LINK_GELECEK)](#) |
-| ModelNet40 Best (Demo) | 254 MB | [İndir (LINK_GELECEK)](#) |
+| ShapeSplat General Base | 334 MB | [İndir (Google Drive)](https://drive.google.com/drive/folders/1KGiYvOQXSKldBnBJRCXNp5gJ9o_r0PuU?usp=drive_link) |
+| ShapeSplat LLFF Final | 334 MB | [İndir (Google Drive)](https://drive.google.com/drive/folders/1KGiYvOQXSKldBnBJRCXNp5gJ9o_r0PuU?usp=drive_link) |
+| ShapeSplat Partial Specialist | 334 MB | [İndir (Google Drive)](https://drive.google.com/drive/folders/1KGiYvOQXSKldBnBJRCXNp5gJ9o_r0PuU?usp=drive_link) |
+| ModelNet40 Best (Demo) | 254 MB | [İndir (Google Drive)](https://drive.google.com/drive/folders/1KGiYvOQXSKldBnBJRCXNp5gJ9o_r0PuU?usp=drive_link) |
 
 İndirdiğiniz `.pth` dosyalarını `BEST_MODELS/` dizini altına yerleştiriniz.
 
