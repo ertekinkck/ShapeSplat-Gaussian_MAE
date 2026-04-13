@@ -43,6 +43,10 @@ archive/
 *.fls
 *.synctex.gz
 archive/docs/
+# --- Research Notes & Guides ---
+*.md
+!README.md
+
 # --- Build Artifacts ---
 build/
 *.so
