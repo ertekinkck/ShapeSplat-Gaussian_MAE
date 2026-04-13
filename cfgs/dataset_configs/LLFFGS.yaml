@@ -1,0 +1,4 @@
+NAME: LLFFGaussian
+DATA_PATH: ./gs_data/llff_dataset/
+ATTRIBUTE: ['xyz','opacity','scale','rotation','sh']
+N_POINTS: 2048
