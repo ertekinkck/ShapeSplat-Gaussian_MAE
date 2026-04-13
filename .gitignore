@@ -9,6 +9,9 @@ datasets/data/
 *.png
 *.jpg
 *.jpeg
+!media/*.png
+!media/*.jpg
+!media/*.jpeg
 
 # --- Python / Environment ---
 __pycache__/
