@@ -24,6 +24,21 @@ Bu çalışma, orijinal [ShapeSplat-Gaussian_MAE](https://github.com/qimaqi/Shap
 
 ---
 
+## 🚀 Model Checkpoints (Ağırlıklar)
+
+Model dosyaları 500 MB sınırına yakın (veya LFS gerektiren boyutlarda) olduğu için Google Drive üzerinde barındırılmaktadır. Aşağıdaki tablodan indirebilirsiniz:
+
+| Model Adı | Boyut | Drive Linki |
+|-----------|-------|-------------|
+| ShapeSplat General Base | 334 MB | [İndir (LINK_GELECEK)](#) |
+| ShapeSplat LLFF Final | 334 MB | [İndir (LINK_GELECEK)](#) |
+| ShapeSplat Partial Specialist | 334 MB | [İndir (LINK_GELECEK)](#) |
+| ModelNet40 Best (Demo) | 254 MB | [İndir (LINK_GELECEK)](#) |
+
+İndirdiğiniz `.pth` dosyalarını `BEST_MODELS/` dizini altına yerleştiriniz.
+
+---
+
 ## 🏗️ Teknik Mimari
 
 Modelimiz, Gauss primitives (xyz, opacity, scale, rotation, sh) üzerinden özellik öğrenen bir **Transformer Encoder-Decoder** yapısını temel alır.
